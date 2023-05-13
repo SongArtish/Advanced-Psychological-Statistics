@@ -6,4 +6,3 @@ sd = sd(target)
 se = sqrt(var(target)/length(target))
 
 print(paste('Mean = ', mean, ', SE = ', sd, ', SE = ', se))
-
